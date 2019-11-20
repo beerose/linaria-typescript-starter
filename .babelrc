@@ -1,0 +1,13 @@
+{
+  "presets": [
+    "@babel/preset-react",
+    "@babel/typescript",
+    [
+      "linaria/babel",
+      {
+        "displayName": true
+      }
+    ]
+  ],
+  "plugins": []
+}

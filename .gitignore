@@ -1,0 +1,9 @@
+node_modules/
+**/.DS_Store
+.settings
+**/.vs
+**/.vscode
+!**/.vscode/tasks.json
+yarn-error.log
+.cache
+.linaria-cache
